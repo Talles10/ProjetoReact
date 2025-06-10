@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import { projetosPorSemana } from "../data/projetos";
+import { projetosPorSemana } from "../data/semana";
 import ProjetoCard from "../components/ProjetoCard";
 
 export default function Semana() {
